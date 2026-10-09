@@ -1,0 +1,19 @@
+*.pdf
+*.json
+*.jpeg
+*.jpg
+*.png
+*.mp4
+*.zip
+*.tar.gz
+*.docx
+*.xlsx
+Kurdish_Medical_Corpus_KMC/1 Medicine Book CKB/
+Kurdish_Medical_Corpus_KMC/2 Medicine Extract Text From Book/
+Kurdish_Medical_Corpus_KMC/3 Medicine Converted Text to Json/
+Kurdish_Medical_Corpus_KMC/Json_Data_From_Website/
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
